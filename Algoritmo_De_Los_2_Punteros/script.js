@@ -1,4 +1,4 @@
-const invitados = ["Ana", "Carlos", "Cecilia", "Daniel", "Diana", "Eduardo", "Andy"];
+const invitados = ["Ana", "Carlos", "Cecilia", "Daniel", "Diana", "Eduardo"];
 
 function encontrarPareja(arr) {
     let inicio = 0;
